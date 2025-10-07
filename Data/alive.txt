@@ -1,328 +1,61 @@
-94.177.8.2,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.2,131,AT,Alwyzon a trading name of Hohl IT eU
-193.219.97.146,8443,AT,Alwyzon a trading name of Hohl IT eU
-38.180.143.51,2053,AT,3NT SOLUTIONS LLP
-103.167.234.120,443,AL,AlbHost SHPK
-94.177.8.16,444,AT,Alwyzon a trading name of Hohl IT eU
-45.134.14.66,443,AT,Aeza International LTD
-203.98.67.74,8443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.51,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.2,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.26,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.5,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.4,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.43,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.11,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.16,138,AT,Alwyzon a trading name of Hohl IT eU
-188.172.229.141,2053,AT,powered by ANX
-94.177.8.62,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.9,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.54,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.40,137,AT,Alwyzon a trading name of Hohl IT eU
-83.138.55.252,8443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.10,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.54,138,AT,Alwyzon a trading name of Hohl IT eU
-193.219.97.146,2053,AT,Alwyzon a trading name of Hohl IT eU
-83.138.55.252,2053,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.122,2053,AT,Alwyzon a trading name of Hohl IT eU
-149.154.153.55,8443,AT,EDIS Infrastructure in Austria
-193.219.97.186,2053,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.5,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.122,8443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.40,443,AT,Alwyzon a trading name of Hohl IT eU
-193.219.97.235,8443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.3,137,AT,Alwyzon a trading name of Hohl IT eU
-193.219.97.235,2053,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.19,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.62,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.21,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.23,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.26,138,AT,Alwyzon a trading name of Hohl IT eU
-83.138.55.120,2053,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.43,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.43,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.10,443,AT,Alwyzon a trading name of Hohl IT eU
-46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.16,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.34,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.26,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.21,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.3,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.60,443,AT,Alwyzon a trading name of Hohl IT eU
-2.59.22.112,443,AT,BlackHOST
-94.177.8.3,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.53,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.21,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.10,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.11,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.9,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.21,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.62,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.48,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.34,137,AT,Alwyzon a trading name of Hohl IT eU
-203.98.67.74,2053,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.23,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.19,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.4,444,AT,Alwyzon a trading name of Hohl IT eU
-46.102.156.27,2053,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.31,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.4,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.40,138,AT,Alwyzon a trading name of Hohl IT eU
-185.104.63.202,443,AT,ZetServers Vienna
-185.119.117.146,8443,AT,IPAX VIRTUAL line server
-94.177.8.26,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.11,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.9,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.78,2053,AT,Alwyzon a trading name of Hohl IT eU
-185.104.63.201,443,AT,ZetServers Vienna
-38.180.143.51,8443,AT,3NT SOLUTIONS LLP
-185.104.63.203,443,AT,ZetServers Vienna
-38.180.59.113,443,AT,3NT SOLUTIONS LLP
-151.236.8.190,443,AT,EDIS IPv6 Infrastructure in Austria
-94.177.8.19,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.48,443,AT,Alwyzon a trading name of Hohl IT eU
-46.102.156.144,8443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.43,137,AT,Alwyzon a trading name of Hohl IT eU
-38.244.199.103,2053,AR,3NT SOLUTIONS LLP
-194.156.103.31,8443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-45.129.185.60,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-2.56.207.235,443,AM,Proitlab LLC
-93.115.240.29,2083,AM,GCore Labs Customer assignment
-2.56.206.64,443,AM,Proitlab LLC
-193.58.120.119,443,AM,InterLIRMarketplace
-194.156.103.70,8443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-93.115.240.29,2053,AM,GCore Labs Customer assignment
-45.129.185.90,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-92.223.2.174,2096,AM,GCore Labs SA
-194.156.103.46,8443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-194.156.103.67,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-139.45.214.126,443,AM,RETN AM Limited Liability Company
-194.156.103.103,2096,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-194.156.103.44,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-194.156.103.52,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-2.56.204.183,443,AM,Proitlab LLC
-77.91.68.209,443,AM,365partners INC
-45.129.185.185,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-2.56.206.114,8443,AM,Proitlab LLC
-195.250.87.42,4443,AM,GNCAlfa CJSC
-45.129.185.143,8443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-45.129.185.224,2053,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-94.177.8.2,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.19,138,AT,Alwyzon a trading name of Hohl IT eU
-213.159.76.202,2053,AM,WorkTitans BV
-185.234.57.153,443,AM,WorkTitans BV
-178.160.195.187,443,AM,Telecom Armenia OJSC
-2.56.206.160,443,AM,Proitlab LLC
-193.123.90.82,12648,AE,Oracle Corporation
-45.129.185.181,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-45.129.185.224,8443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-2.56.206.114,2053,AM,Proitlab LLC
-94.177.8.53,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.3,444,AT,Alwyzon a trading name of Hohl IT eU
-139.45.214.122,443,AM,RETN AM Limited Liability Company
-89.36.162.130,443,AE,Melbikomas UAB
-213.159.76.175,443,AM,WorkTitans BV
-45.129.185.174,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-83.138.55.120,8443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.6,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.51,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.8,443,AT,Alwyzon a trading name of Hohl IT eU
-193.123.81.105,443,AE,Oracle Corporation
-84.235.245.65,2096,AE,Oracle Svenska AB
-139.185.50.5,14594,AE,Oracle Corporation
-84.235.245.18,34501,AE,Oracle Svenska AB
-194.156.103.58,41210,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-139.185.39.237,48008,AE,Oracle Corporation
-94.177.8.21,138,AT,Alwyzon a trading name of Hohl IT eU
-95.174.68.29,443,AE,Melbikomas UAB
-141.145.151.219,443,AE,Oracle Corporation
-45.86.228.104,443,AE,BlueVPS OU
-40.120.108.47,2083,AE,Microsoft Corporation
-85.237.211.59,8443,AE,Private Customer
-91.132.132.237,443,AM,WorkTitans BV
-20.174.15.226,443,AE,Microsoft Corporation
-38.180.11.201,443,AE,3NT SOLUTIONS LLP
-20.157.74.92,443,AE,Microsoft Corporation
-109.61.42.105,443,AE,GCore Labs Customer assignment
-3.29.240.49,443,AE,Amazon Data Services UAE
-129.151.128.105,16731,AE,Oracle Corporation
-38.244.199.103,8443,AR,3NT SOLUTIONS LLP
-109.61.42.20,443,AE,GCore Labs Customer assignment
-217.195.200.153,443,AE,GCore Labs Customer assignment
-45.129.185.99,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-213.159.76.202,8443,AM,WorkTitans BV
-217.195.200.138,443,AE,GCore Labs Customer assignment
-85.90.207.254,8443,AM,GCore Labs Customer assignment
-176.97.66.175,443,AE,3nt solutions LLP
-129.151.128.114,34834,AE,Oracle Corporation
-2.188.219.121,8443,AE,GCore Labs Customer assignment
-185.234.57.60,443,AM,WorkTitans BV
-91.207.18.91,8443,AE,GCore Labs Customer assignment
-3.29.76.68,443,AE,Amazon Data Services UAE
-176.97.78.80,443,AE,IROKO Networks Corporation
-45.129.185.165,8443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-176.97.78.80,2053,AE,IROKO Networks Corporation
-185.209.49.17,8443,AE,ITGLOBAL COM DMCC
-40.120.108.47,443,AE,Microsoft Corporation
-90.156.221.54,443,AE,ITGLOBAL COM DMCC
-87.121.47.32,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
-176.97.67.38,443,AE,3nt solutions LLP
-93.127.180.57,8443,AE,Private Customer
-217.113.25.184,44443,AM,INET LLC
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-40.120.108.47,2053,AE,Microsoft Corporation
-94.177.8.23,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.43,443,AT,Alwyzon a trading name of Hohl IT eU
-95.163.153.198,443,AT,Aeza International LTD
-94.177.8.60,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.50,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.50,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.50,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.8,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.9,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.51,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.6,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.9,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.54,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.62,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.60,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.62,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.5,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.6,138,AT,Alwyzon a trading name of Hohl IT eU
-95.163.176.103,443,AT,Aeza International LTD
-94.177.8.34,443,AT,Alwyzon a trading name of Hohl IT eU
-193.233.232.174,443,AT,Aeza International LTD
-94.177.8.40,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.8,138,AT,Alwyzon a trading name of Hohl IT eU
-193.233.233.105,443,AT,Aeza International LTD
-85.192.27.65,2053,AT,Aeza International LTD
-94.177.8.6,131,AT,Alwyzon a trading name of Hohl IT eU
-147.45.41.202,443,AT,Aeza International LTD
-94.177.8.19,443,AT,Alwyzon a trading name of Hohl IT eU
-77.110.110.12,443,AT,Aeza International LTD
-78.153.130.92,443,AT,Aeza International LTD
-212.113.106.141,443,AT,Aeza International LTD
-78.153.130.48,443,AT,Aeza International LTD
-85.192.27.165,443,AT,Aeza International LTD
-85.192.27.17,443,AT,Aeza International LTD
-185.217.197.152,8443,AT,Aeza International LTD
-77.110.116.10,443,AT,Aeza International LTD
-85.192.42.107,443,AT,Aeza International LTD
-185.106.94.70,443,AT,Aeza International LTD
-94.177.8.50,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.34,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.11,131,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.48,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.51,137,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.48,138,AT,Alwyzon a trading name of Hohl IT eU
-62.60.239.139,443,AT,Aeza International LTD
-62.60.239.134,443,AT,Aeza International LTD
-94.228.170.174,443,AT,Aeza International LTD
-94.177.8.5,138,AT,Alwyzon a trading name of Hohl IT eU
-95.163.153.27,443,AT,Aeza International LTD
-94.177.8.11,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.8,444,AT,Alwyzon a trading name of Hohl IT eU
-77.73.131.5,443,AT,Aeza International LTD
-94.177.8.4,138,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.54,444,AT,Alwyzon a trading name of Hohl IT eU
-212.113.106.241,443,AT,Aeza International LTD
-85.192.42.55,443,AT,Aeza International LTD
-77.110.110.114,443,AT,Aeza International LTD
-212.113.106.125,8443,AT,Aeza International LTD
-45.138.74.83,443,AT,Aeza International LTD
-62.60.239.220,443,AT,Aeza International LTD
-147.45.41.218,443,AT,Aeza International LTD
-94.228.170.236,443,AT,Aeza International LTD
-77.110.110.207,443,AT,Aeza International LTD
-138.124.90.246,8443,AT,Aeza International LTD
-147.45.71.195,443,AT,Aeza International LTD
-77.110.110.147,443,AT,Aeza International LTD
-62.60.239.14,443,AT,Aeza International LTD
-62.60.238.20,443,AT,Aeza International LTD
-212.113.106.233,443,AT,Aeza International LTD
-193.233.232.158,443,AT,Aeza International LTD
-95.163.176.55,8443,AT,Aeza International LTD
-77.110.110.156,443,AT,Aeza International LTD
-193.233.232.39,443,AT,Aeza International LTD
-95.163.176.142,443,AT,Aeza International LTD
-85.192.27.30,443,AT,Aeza International LTD
-185.106.94.200,443,AT,Aeza International LTD
-212.113.106.30,443,AT,Aeza International LTD
-62.60.239.148,443,AT,Aeza International LTD
-85.192.42.249,443,AT,Aeza International LTD
-94.228.170.145,443,AT,Aeza International LTD
-62.60.239.111,443,AT,Aeza International LTD
-212.113.106.229,443,AT,Aeza International LTD
-62.60.239.154,8443,AT,Aeza International LTD
-85.192.27.155,443,AT,Aeza International LTD
-94.177.8.60,131,AT,Alwyzon a trading name of Hohl IT eU
-193.233.233.111,443,AT,Aeza International LTD
-193.233.233.202,443,AT,Aeza International LTD
-147.45.71.3,443,AT,Aeza International LTD
-193.233.232.10,443,AT,Aeza International LTD
-193.233.233.115,8443,AT,Aeza International LTD
-94.177.8.8,131,AT,Alwyzon a trading name of Hohl IT eU
-77.110.110.150,443,AT,Aeza International LTD
-94.177.8.54,443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.53,444,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.40,131,AT,Alwyzon a trading name of Hohl IT eU
-212.113.106.146,443,AT,Aeza International LTD
-185.106.94.49,443,AT,Aeza International LTD
-62.60.239.216,443,AT,Aeza International LTD
-78.153.130.60,443,AT,Aeza International LTD
-62.60.238.110,443,AT,Aeza International LTD
-94.177.8.51,444,AT,Alwyzon a trading name of Hohl IT eU
-212.113.106.181,443,AT,Aeza International LTD
-147.45.41.182,443,AT,Aeza International LTD
-45.138.74.96,443,AT,Aeza International LTD
-77.110.110.202,443,AT,Aeza International LTD
-45.138.74.122,443,AT,Aeza International LTD
-62.60.238.187,443,AT,Aeza International LTD
-193.233.232.103,443,AT,Aeza International LTD
-45.138.74.7,443,AT,Aeza International LTD
-85.192.42.179,443,AT,Aeza International LTD
-193.233.232.146,443,AT,Aeza International LTD
-213.176.94.172,443,AT,Aeza International LTD
-193.233.232.102,443,AT,Aeza International LTD
-94.228.170.207,443,AT,Aeza International LTD
-213.176.94.146,443,AT,Aeza International LTD
-213.176.94.250,443,AT,Aeza International LTD
-78.153.130.148,443,AT,Aeza International LTD
-77.110.110.214,443,AT,Aeza International LTD
-95.163.153.227,8443,AT,Aeza International LTD
-94.228.170.50,443,AT,Aeza International LTD
-45.134.14.69,443,AT,Aeza International LTD
-213.176.94.4,443,AT,Aeza International LTD
-185.106.94.251,443,AT,Aeza International LTD
-78.153.130.17,443,AT,Aeza International LTD
-185.217.197.217,443,AT,Aeza International LTD
-45.134.14.40,443,AT,Aeza International LTD
-94.228.169.66,443,AT,Aeza International LTD
-95.163.176.6,443,AT,Aeza International LTD
-95.163.176.4,8443,AT,Aeza International LTD
-212.113.119.62,443,AT,Aeza International LTD
-45.134.14.15,8443,AT,Aeza International LTD
-193.233.233.61,8443,AT,Aeza International LTD
-94.228.170.38,443,AT,Aeza International LTD
-78.153.130.215,443,AT,Aeza International LTD
-45.138.74.54,443,AT,Aeza International LTD
-45.134.14.108,443,AT,Aeza International LTD
-138.124.90.80,443,AT,Aeza International LTD
-95.163.153.44,443,AT,Aeza International LTD
-94.228.169.216,443,AT,Aeza International LTD
-185.217.197.23,443,AT,Aeza International LTD
-138.124.90.240,443,AT,Aeza International LTD
-85.192.27.103,443,AT,Aeza International LTD
-62.60.239.60,443,AT,Aeza International LTD
-77.73.131.43,8443,AT,Aeza International LTD
-62.60.238.210,443,AT,Aeza International LTD
-85.192.27.173,443,AT,Aeza International LTD
-62.60.238.29,443,AT,Aeza International LTD
-193.233.232.183,443,AT,Aeza International LTD
-94.228.169.53,443,AT,Aeza International LTD
-62.60.238.23,443,AT,Aeza International LTD
-212.113.119.105,443,AT,Aeza International LTD
-85.192.27.49,443,AT,Aeza International LTD
+144.24.78.162,443,SG,ZENLA-1
+129.150.58.86,57621,SG,Oracle Corporation
+146.235.18.248,45137,SG,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Svenska AB
+178.128.80.43,443,SG,DigitalOcean, LLC
+47.245.95.160,1443,SG,Alibaba Cloud LLC
+194.127.193.240,50791,SG,Greencloud LLC
+47.236.119.190,51342,SG,Alibaba Cloud LLC
+129.150.49.58,18650,SG,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
+194.127.193.124,24467,SG,Greencloud LLC
+138.2.95.61,1111,SG,Oracle Corporation
+168.138.170.211,53702,SG,Oracle Public Cloud
+8.219.1.169,443,SG,Alibaba Cloud (Singapore) Private Limited
+62.72.46.14,8443,SG,Contabo GmbH
+8.222.220.81,25435,SG,Alibaba Cloud (Singapore) Private Limited
+47.74.254.191,8900,SG,Alibaba Cloud - SG
+8.219.58.164,57373,SG,Alibaba Cloud (Singapore) Private Limited
+51.79.158.58,8443,SG,OVH Singapore PTE. LTD
+168.138.181.188,61731,SG,Oracle Public Cloud
+158.178.243.152,61731,SG,Oracle Corporation
+8.219.59.132,48130,SG,Alibaba Cloud (Singapore) Private Limited
+91.192.81.154,2053,SG,Melbikomas UAB
+83.142.30.5,2096,SG,Zappie Host LLC
+143.198.196.196,8443,SG,DigitalOcean, LLC
+158.178.236.14,61731,SG,Oracle Corporation
+8.219.59.132,48964,SG,Alibaba Cloud (Singapore) Private Limited
+104.248.145.216,443,SG,DigitalOcean, LLC
+13.250.14.76,443,SG,Amazon Data Services Singapore
+138.2.89.64,32962,SG,Oracle Corporation
+138.2.69.236,23334,SG,Oracle Corporation
+143.198.196.196,2053,SG,DigitalOcean, LLC
+146.235.19.79,28983,SG,Oracle Corporation
+158.178.246.142,61731,SG,Oracle Corporation
+168.138.171.70,23280,SG,Oracle Public Cloud
+164.52.2.100,443,SG,UCUL-SG
+143.42.66.91,443,SG,M1 LIMITED
+164.52.2.98,443,SG,UCUL-SG
+164.52.2.99,443,SG,UCUL-SG
+185.81.28.95,30503,SG,AKILE LTD
+194.36.179.5,2053,SG,FIRST SERVER LIMITED
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+213.35.100.31,47112,SG,Oracle Svenska AB
+31.192.238.71,8443,SG,PDK LLC
+31.192.238.71,2053,SG,PDK LLC
+43.156.116.194,443,SG,6 COLLYER QUAY
+43.156.181.203,443,SG,16 COLLYER QUAY
+64.49.14.41,2053,SG,Internet Utilities NA LLC
+51.79.158.58,2053,SG,OVH Singapore PTE. LTD
+5.34.176.119,81,SG,Green Floid LLC
+64.49.14.41,8443,SG,Internet Utilities NA LLC
+83.142.30.129,2096,SG,GSL Networks Pty LTD - Singapore
+91.192.81.154,8443,SG,Melbikomas UAB
+13.250.131.37,443,SG,Amazon Data Services Singapore
+83.142.30.4,2096,SG,Zappie Host LLC
+168.138.165.174,443,SG,Oracle Public Cloud
 147.45.41.2,443,AT,Aeza International LTD
 77.110.110.9,443,AT,Aeza International LTD
 85.192.27.81,443,AT,Aeza International LTD
